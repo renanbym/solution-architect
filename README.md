@@ -35,5 +35,5 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 
 # Ecosytem
 
- * [Web developer](ecosystem/togaf.md) - DevOps/Back-end/Fron-end
+ * [Web developer](ecosystem.md) - DevOps/Back-end/Fron-end
 
