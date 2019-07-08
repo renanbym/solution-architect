@@ -20,7 +20,7 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 
 > Organizam processos, definem papéis e permitem uma melhor administração dos componentes de TI de uma empresa. 
 
-* [ITIL](metodos/itl.md) - Information Technology Infrastructure Library
+* [ITIL](metodos/itil.md) - Information Technology Infrastructure Library
 * [COBIT](metodos/cobit.md) - Control Objectives for Information and related Technology
 * [PRINCE](metodos/prince.md) - PRojects IN Controlled Environments
 * [LEAN](metodos/lean.md) - 
