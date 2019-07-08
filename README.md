@@ -36,3 +36,6 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 # Ecosytem
 
 ![Alt text](images/intro.png)
+![Alt text](images/front.png)
+![Alt text](images/back.png)
+![Alt text](images/devops.png)
