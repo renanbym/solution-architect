@@ -33,9 +33,7 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 * [TOGAF](frameworks/togaf.md) - The Open Group Architecture Framework
 
 
-# [Ecosytem]
+# Ecosytem
 
-![](images/intro.png)
-![](images/frontend.png | width=100)
-![](images/backend.png)
-![](images/devops.png)
+ * [Web developer](ecosystem/togaf.md) - DevOps/Back-end/Fron-end
+
