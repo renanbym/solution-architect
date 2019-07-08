@@ -1,1 +1,1 @@
-# ITIL - Information Technology Infrastructure Library
+# TOGAF - The Open Group Architecture Framework
