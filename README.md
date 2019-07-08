@@ -23,15 +23,16 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 * [ITIL](metodos/itl.md) - Information Technology Infrastructure Library
 * [COBIT](metodos/cobit.md) - Control Objectives for Information and related Technology
 * [PRINCE](metodos/prince.md) - PRojects IN Controlled Environments
+* [LEAN](metodos/lean.md) - 
+* [AGILE](metodos/agile.md) - 
 
 # Frameworks
 
 > Oferecem uma estrutura de criação/implementação de uma arquitetura corporativa
 
+* [TOGAF](frameworks/togaf.md) - The Open Group Architecture Framework
 * [FEA](frameworks/fea.md) - Federal Enterprise Architecture
 * [DODAF](frameworks/dodaf.md) - Department of Defense Architecture Framework
-* [TOGAF](frameworks/togaf.md) - The Open Group Architecture Framework
-
 
 # Ecosytem
 
