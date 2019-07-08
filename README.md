@@ -20,17 +20,17 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 
 > Organizam processos, definem papéis e permitem uma melhor administração dos componentes de TI de uma empresa. 
 
-* [ITIL](https://github.com/renanbym/solution-architect/blob/master/metodos/itl.md) - Information Technology Infrastructure Library
-* [COBIT](https://github.com/renanbym/solution-architect/blob/master/metodos/cobit.md) - Control Objectives for Information and related Technology
-* [PRINCE](https://github.com/renanbym/solution-architect/blob/master/metodos/prince.md) - PRojects IN Controlled Environments
+* [ITIL](metodos/itl.md) - Information Technology Infrastructure Library
+* [COBIT](metodos/cobit.md) - Control Objectives for Information and related Technology
+* [PRINCE](metodos/prince.md) - PRojects IN Controlled Environments
 
 # Frameworks
 
 > Oferecem uma estrutura de criação/implementação de uma arquitetura corporativa
 
-* [FEA](https://github.com/renanbym/solution-architect/blob/master/frameworks/fea.md) - Federal Enterprise Architecture
-* [DODAF](https://github.com/renanbym/solution-architect/blob/master/frameworks/dodaf.md) - Department of Defense Architecture Framework
-* [TOGAF](https://github.com/renanbym/solution-architect/blob/master/frameworks/togaf.md) - The Open Group Architecture Framework
+* [FEA](frameworks/fea.md) - Federal Enterprise Architecture
+* [DODAF](frameworks/dodaf.md) - Department of Defense Architecture Framework
+* [TOGAF](frameworks/togaf.md) - The Open Group Architecture Framework
 
 
 # Ecosytem
