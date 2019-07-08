@@ -51,6 +51,3 @@ Mapeamento de todos os projetos internos do cliente que afetam a infraestrutura,
 # Ecosytem Web
 
  * [Web developer](ecosystem.md) - DevOps/Back-end/Fron-end
-
-
-
