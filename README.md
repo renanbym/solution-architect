@@ -16,13 +16,15 @@ A modelagem por meio de componentes não necessariamente cobre a construção de
 
 Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesmo tempo amplas e profundas. Para que possa ser efetivo, o arquiteto de solução precisa ter experiência tanto em hardware como em software, e estar confortável com ambientes de sistemas heterogêneos e complexos. Além disso, seu conhecimento em redes de dados, incluindo internet, serão necessários quando a solução necessitar comunicar com soluções em cloud ou integrar com parceiros.
 
-# Arquiteto de Software
+## Resumo
+
+### Arquiteto de Software
 
 Segundo as definições obtidas no guia navegação do RUP, processo de desenvolvimento criado pela Ration Software Corporation, o papel de um arquiteto de software é liderar e coordenar as atividades e os artefatos técnicos no decorrer do projeto. O arquiteto de software estabelece a estrutura geral de cada visão de arquitetura: a decomposição da visão, o agrupamento dos elementos e as interfaces entre esses principais agrupamentos. Portanto, comparado aos outros papéis, a visão do arquiteto de software é ampla, e não detalhada.
 
 > o arquiteto de software deve ter grande conhecimento geral, possuir maturidade, visão e profunda experiência que permita identificar problemas rapidamente e dar opiniões sensatas e criteriosas na falta de informações completas.
 
-# Arquiteto de Soluções
+### Arquiteto de Soluções
 
 Mapeamento de todos os projetos internos do cliente que afetam a infraestrutura, mapeamento das tendências de crescimento do negócio do cliente e picos de utilização da infraestrutura, geração de indicadores de crescimento do ambiente atrelados ao negócio, revisão do capacity planing operacional, tático e estratégico, Sugerir novas tecnologias de infraestrutura e sistemas, elaboração da documentação de arquitetura de soluções e infraestrutura. 
 
