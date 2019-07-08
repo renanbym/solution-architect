@@ -16,6 +16,11 @@ A modelagem por meio de componentes não necessariamente cobre a construção de
 
 Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesmo tempo amplas e profundas. Para que possa ser efetivo, o arquiteto de solução precisa ter experiência tanto em hardware como em software, e estar confortável com ambientes de sistemas heterogêneos e complexos. Além disso, seu conhecimento em redes de dados, incluindo internet, serão necessários quando a solução necessitar comunicar com soluções em cloud ou integrar com parceiros.
 
+# Arquitetos
+
+* [Software](arquiteto/software.md)
+* [Solução](arquiteto/solucao.md)
+
 # Métodos 
 
 > Organizam processos, definem papéis e permitem uma melhor administração dos componentes de TI de uma empresa. 
@@ -23,8 +28,8 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 * [ITIL](metodos/itil.md) - Information Technology Infrastructure Library
 * [COBIT](metodos/cobit.md) - Control Objectives for Information and related Technology
 * [PRINCE](metodos/prince.md) - PRojects IN Controlled Environments
-* [LEAN](metodos/lean.md) - 
-* [AGILE](metodos/agile.md) - 
+* [LEAN](metodos/lean.md) - *
+* [AGILE](metodos/agile.md) - *
 
 # Frameworks
 
@@ -34,7 +39,9 @@ Ser um arquiteto de solução requer conhecimento e habilidades que são ao mesm
 * [FEA](frameworks/fea.md) - Federal Enterprise Architecture
 * [DODAF](frameworks/dodaf.md) - Department of Defense Architecture Framework
 
-# Ecosytem
+# Ecosytem Web
 
  * [Web developer](ecosystem.md) - DevOps/Back-end/Fron-end
+
+
 

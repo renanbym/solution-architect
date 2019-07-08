@@ -31,6 +31,16 @@
 * a melhoria da atividade da cadeia de valor do serviço, que é introduzida lá.
 * a prática de melhoria contínua, que abrange as atividades do dia-a-dia e é descrita com as outras práticas ITIL.
 
+> Iniciativas de melhoria
+
+* Identifique a estratégia para melhoria
+* Defina o que você vai medir
+* Reúna os dados
+* Processar os dados
+* Analise as informações e dados
+* Apresentar e usar as informações
+* Implementar melhoria
+
 ### Cadeia de valor de serviço ITIL
 
 * melhorar
@@ -90,4 +100,4 @@
 
 
 
-[Wiki](https://pt.wikipedia.org/wiki/Information_Technology_Infrastructure_Library#cite_note-8) - Wikipedia ITIL
+[Wiki](https://pt.wikipedia.org/wiki/Information_Technology_Infrastructure_Library#cite_note-8)
