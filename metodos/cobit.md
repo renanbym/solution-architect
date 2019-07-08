@@ -38,7 +38,7 @@ O foco do processo do COBIT é ilustrado por um modelo de processo que subdivide
 > É o modelo que representa como os componentes se inter-relacionam
 
 
-![Cubo do Cobit](images/cubo-cobit.jpg)
+![Cubo do Cobit](../images/cubo-cobit.jpg)
 
 ## Estrutura do Cobit
 
