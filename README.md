@@ -37,8 +37,7 @@ Mapeamento de todos os projetos internos do cliente que afetam a infraestrutura,
 * [ITIL](metodos/itil.md) - Information Technology Infrastructure Library
 * [COBIT](metodos/cobit.md) - Control Objectives for Information and related Technology
 * [PRINCE](metodos/prince.md) - PRojects IN Controlled Environments
-* [LEAN](metodos/lean.md) - *
-* [AGILE](metodos/agile.md) - *
+* [AGILE](metodos/agile.md) - Agile software development
 
 # Frameworks
 
