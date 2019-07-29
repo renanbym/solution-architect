@@ -44,8 +44,7 @@ Mapeamento de todos os projetos internos do cliente que afetam a infraestrutura,
 > Oferecem uma estrutura de criação/implementação de uma arquitetura corporativa
 
 * [TOGAF](frameworks/togaf.md) - The Open Group Architecture Framework
-* [FEA](frameworks/fea.md) - Federal Enterprise Architecture
-* [DODAF](frameworks/dodaf.md) - Department of Defense Architecture Framework
+* [SCRUM](frameworks/scrum.md) - SCRUM
 
 # Ecosytem Web
 
